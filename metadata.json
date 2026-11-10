@@ -1,0 +1,6 @@
+{
+  "name": "Dòng Sông Thời Gian - Kính Tặng Cô Chu Ngọc Quỳnh 20/11",
+  "description": "Game kể chuyện lịch sử tương tác tri ân cô giáo Chu Ngọc Quỳnh nhân ngày Nhà giáo Việt Nam 20/11",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
